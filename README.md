@@ -26,3 +26,4 @@
 - **Tuhan YME** atas segala nikmat di dunia ini.
 - **Netlab** atas pembelajaran hengkernya selama semester 5.
 - **Bang bontot** atas indomie double telor dan nurdin yang menemani pembuatan proyek ini.
+- **Beyonce & Jay-Z**
