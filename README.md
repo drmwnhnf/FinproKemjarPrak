@@ -19,7 +19,7 @@
 ## Contributors
 
 - **Darmawan Hanif** (2206829175) - Yang bikin
-- **Pabenjol Jelek** (2206******) - Yang matil
+- **Pabenjol Jelek** (2206829433) - Yang matil
 
 ## Special Thanks
 
