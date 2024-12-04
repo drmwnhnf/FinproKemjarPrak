@@ -10,7 +10,8 @@ const Login = () => {
     const handleLogin = async () => {
         try {
             const response = await API.post('/login', { username, password });
-            localStorage.setItem('userId', response.data.userId);
+            localStorage.setItem('token', response.data.token); // Save token to localStorage
+            localStorage.setItem('userId', response.data.userId); // Save userId
             navigate('/home');
         } catch (error) {
             alert('Login failed!');
