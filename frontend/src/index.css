@@ -1,0 +1,85 @@
+/* Global styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9fbe7;
+  /* Light green */
+  color: #2e7d32;
+  /* Dark green */
+}
+
+/* Common container styles */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 20px;
+}
+
+/* Header styles */
+.header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Input styles */
+.input {
+  width: 25%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #a5d6a7;
+  /* Green border */
+  border-radius: 5px;
+}
+
+/* Button styles */
+.button {
+  background-color: #81c784;
+  /* Green */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.button:hover {
+  background-color: #558b2f;
+  /* Darker green */
+}
+
+/* Diary list styles */
+.diaryList {
+  list-style-type: none;
+  padding: 0;
+  width: 100%;
+  max-width: 600px;
+}
+
+.diaryItem {
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #e8f5e9;
+  /* Light green */
+  border: 1px solid #a5d6a7;
+  /* Green border */
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Link Styling */
+.link {
+  color: #81c784;
+  /* Green color */
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
