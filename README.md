@@ -13,13 +13,13 @@
 - **Backend**: Express.js
 - **Frontend**: React
 - **Database**: SQLite
-- **Authentication**: Tanpa otentikasi API yang aman
+- **Authentication**: Tanpa autentikasi API yang aman
 - **Security**: Kerentanannya sengaja dibuat untuk tujuan pengujian
 
 ## Contributors
 
 - **Darmawan Hanif** (2206829175) - Yang bikin
-- **Pabenjol** (2206******) - Yang matil
+- **Pabenjol Jelek** (2206******) - Yang matil
 
 ## Special Thanks
 
