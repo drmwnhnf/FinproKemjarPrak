@@ -18,8 +18,8 @@
 
 ## Contributors
 
-- **Darmawan Hanif** (2206829175) - Yang bikin
-- **Pabenjol Jelek** (2206829433) - Yang matil
+- **Darmawan Hanif** (2206829175) - Target creation, exploitation, remediation
+- **Fabsesya Muhammad Putra Ibradi** (2206829433) - Documentation
 
 ## Special Thanks
 
